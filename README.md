@@ -6,4 +6,5 @@
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
 
-## Cool new project coming up soon!
+## Cool new project not coming up soon (i have exams coming up, maybe later)!
+
