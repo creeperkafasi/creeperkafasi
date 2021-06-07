@@ -1,10 +1,13 @@
 ## Hi there 👋 welcome to my profile
 * I'm a highschool student that likes to code whatever I want.
-* My social skills are `null` and if you curl my gf you will get a `404 Not Found` http status code.
-* I use gitmoji  for my commits, and you should too!
+* Obsessed with material design and dark modes
+* Certified bad osu! player
+
+[![creeperkafasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeperkafasi&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
-
-## Cool new project not coming up soon (i have exams coming up, maybe later)!
-
+<a href="https://osu.ppy.sh/users/18379900">
+  <img src="https://img.shields.io/badge/osu!-creeperkafasipw-ff7eb8.svg?style=flat-square" alt="">
+</a>
