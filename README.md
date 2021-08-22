@@ -11,3 +11,5 @@
 <a href="https://osu.ppy.sh/users/18379900">
   <img src="https://img.shields.io/badge/osu!-creeperkafasipw-ff7eb8.svg?style=flat-square" alt="">
 </a>
+
+![](https://komarev.com/ghpvc/?username=creeperkafasi)
