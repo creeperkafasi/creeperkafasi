@@ -1,7 +1,5 @@
 ## Hi there 👋 welcome to my profile
 * I'm a highschool student that likes to code whatever I want.
-* Obsessed with material design and dark modes
-* Certified bad osu! player
 
 [![creeperkafasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeperkafasi&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
