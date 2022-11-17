@@ -1,5 +1,6 @@
 ## Hi there 👋 welcome to my profile
-* I'm a highschool student that likes to code whatever I want.
+
+<img src="https://user-images.githubusercontent.com/49831545/202455335-e320f9ec-6316-41cf-8628-0aa89f3da118.png" align="left" width="19%">
 
 [![creeperkafasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeperkafasi&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
