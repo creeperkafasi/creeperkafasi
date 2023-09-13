@@ -5,6 +5,9 @@
 
 [![creeperkafasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeperkafasi&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creeperkafasi)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
